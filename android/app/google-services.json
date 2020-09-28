@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665329199459",
+    "firebase_url": "https://basketqueen-ae401.firebaseio.com",
+    "project_id": "basketqueen-ae401",
+    "storage_bucket": "basketqueen-ae401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665329199459:android:dc120e6c6bd3a328268b56",
+        "android_client_info": {
+          "package_name": "com.arkinindia.aaishani_store_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665329199459-mq32en38n08sl1r457ltg4ub6osl4kbr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu0qYj0hx_fkuULxlX7Yxyom31oU4Js8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665329199459-mq32en38n08sl1r457ltg4ub6osl4kbr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
